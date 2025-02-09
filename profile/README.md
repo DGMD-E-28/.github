@@ -82,10 +82,8 @@ The course covers:
 
 ---
 
-## 🚀 How to Contribute
-This repository serves as the central hub for **DGMD-E-28 coursework**. If you have:
+## 🚀 Purpose of This Repository
+This repository is solely for submitting my homework assignments for DGMD-E-28 coursework. If you have:
 - A **question** about the course → Use the **Canvas discussion board**.
-- Found a **bug** in course materials → Submit an **Issue** on GitHub.
-- Want to **add helpful content** → Fork and submit a **Pull Request**.
 
 Happy coding! 🚀🎉
