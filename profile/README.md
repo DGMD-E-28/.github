@@ -13,12 +13,12 @@ The course covers:
 ---
 
 ## 🔹 Assignments & Projects
-| Assignment | Description | Link |
-|------------|------------|------|
-| **Assignment 1** | Deploy a simple HTML webpage on GitHub Pages | [Assignment 1](./assignment-1/) |
-| **Assignment 2** | Tic Tac Toe - Part 1: Build a static board | [Assignment 2](./assignment-2/) |
-| **Assignment 3** | Tic Tac Toe - Part 2: Add interactivity | *(Coming Soon)* |
-| **Final Project** | Full SPA built with React.js | *(Details TBD)* |
+| Assignment | Description | Repo Link | Webpage |
+|------------|------------|-----------|---------|
+| **Assignment 1** | Deploy a simple HTML webpage on GitHub Pages | [Repo](https://github.com/DGMD-E-28/assignment-1) | [Live Page](https://dgmd-e-28.github.io/assignment-1/) |
+| **Assignment 2** | Tic Tac Toe - Part 1: Build a static board | [Repo](https://github.com/DGMD-E-28/assignment-2) | [Live Page](https://dgmd-e-28.github.io/assignment-2/) |
+| **Assignment 3** | Tic Tac Toe - Part 2: Add interactivity | *(Coming Soon)* | *(Coming Soon)* |
+| **Final Project** | Full SPA built with React.js | *(Details TBD)* | *(Details TBD)* |
 
 🔹 **All assignments must be hosted online and submitted via GitHub.**  
 🔹 **Code should follow best practices and clean structure.**
