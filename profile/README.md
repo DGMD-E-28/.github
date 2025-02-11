@@ -83,7 +83,6 @@ The course covers:
 ---
 
 ## 🚀 Purpose of This Repository
-This repository is solely for submitting my homework assignments for DGMD-E-28 coursework. If you have:
-- A **question** about the course → Use the **Canvas discussion board**.
+This repository is solely for submitting my homework assignments for DGMD-E-28 coursework. 
 
 Happy coding! 🚀🎉
