@@ -19,6 +19,7 @@ The course covers:
 | **Assignment 2** | Tic Tac Toe - Part 1: Build a static board | [Repo](https://github.com/DGMD-E-28/assignment-2) | [Live Page](https://dgmd-e-28.github.io/assignment-2/) |
 | **Assignment 3** | Tic Tac Toe - Part 2: Add interactivity | [Repo](https://github.com/DGMD-E-28/assignment-3) | [Live Page](https://dgmd-e-28.github.io/assignment-3/) |
 | **Assignment 3a** | Joe's Hotdogs Order System (Associative Arrays) | [Repo](https://github.com/DGMD-E-28/assignment-3a) | [Live Page](https://dgmd-e-28.github.io/assignment-3a/) |
+| **Assignment 4** | Wordle Game - Implemented using JavaScript and APIs | [Repo](https://github.com/DGMD-E-28/wordle) | [Live Page](https://dgmd-e-28.github.io/wordle/) |
 | **Final Project** | Full SPA built with React.js | *(Details TBD)* | *(Details TBD)* |
 
 🔹 **All assignments must be hosted online and submitted via GitHub.** 
